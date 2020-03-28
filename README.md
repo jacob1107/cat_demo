@@ -19,12 +19,4 @@
 4. [lab04](lab04)~Spring Cloud Sleuth实验
 
 
-# 注意
-1. 所有实验仅供学习参考，不是生产级
-2. 实验和ppt采用[Mit license](LICENSE)
 
-# 极客时间课程
-
-《微服务架构实战160讲》
-
-![微服务架构实战160讲](https://github.com/spring2go/oauth2lab/blob/master/image/course_ad.jpg)
